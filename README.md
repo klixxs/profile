@@ -19,6 +19,6 @@ public class Klixxs {
 
     public static void main(String[] args) {
         Klixxs me = new Klixxs();
-	      System.out.println(me);
+	System.out.println(me);
     }
 }
